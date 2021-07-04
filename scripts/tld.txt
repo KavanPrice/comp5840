@@ -1,0 +1,6 @@
+CL = Chile
+CO = Colombia
+CU = Cuba
+MX = Mexico
+PE = Peru
+PH = Philippines
